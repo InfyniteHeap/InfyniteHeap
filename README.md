@@ -4,10 +4,10 @@ As an undergraduate student, I am concentrating on learning computer knowledge. 
 
 * Time improved that Rust is fast and safe enough to be used in varieties of fields, which require high proformance and memory safety. A powerful and classic example is that Rust already been acknowledged by Linux developing team and merged in Linux Kernel. Another one is that Microsoft decided to migrate some C-implemented functions to Rust. Well, Google also declared that they will add more Rust and Kotlin code instead of C, C++ and Java code when developing new Android features. They are also rewriting some key components (e.g. pVM firmware) by using Rust.
 
-Besides that, I also love playing games like [**Minecraft**](https://www.minecraft.net) and [**Genshin Impact**](https://genshin.hoyoverse.com).
+Besides that, I also love playing games like [*Minecraft*](https://www.minecraft.net) and [*Genshin Impact*](https://genshin.hoyoverse.com).
 
 * In **Minecraft**, I am a redstone digital circuit player. I love learning and building redstone digital circuits to enhance my computer hardware knowledge.
 
-* In **Genshin Impact**, the couple I am shipping is Aether (the Traveller, who is seeking for his younger sister Lumine who is in *The Abyss*) and Furina (the well-known star in *The Fontaine*).
+* In **Genshin Impact**, the couple I am shipping is Aether (the Traveler, who is seeking for his younger sister Lumine who is in *The Abyss*) and Furina (the well-known star in *The Fontaine*).
 
-If you want to contact me, you can send me an email. Both English and Chinese are ok.😉
+If you want to contact me, send me an email is ok.😉 Only English is accepted.
