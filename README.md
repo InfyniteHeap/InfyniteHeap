@@ -10,4 +10,4 @@ Besides that, I also love playing games like [*Minecraft*](https://www.minecraft
 
 * In ***Genshin Impact***, the couple I am shipping is Aether (the Traveler, who is seeking for his younger sister Lumine who is in *The Abyss*) and Furina (the well-known star in *The Fontaine*).
 
-If you want to contact me, send me an email is ok.😉 Only **English** is accepted.
+If you want to contact me, send me an email is ok.😉
