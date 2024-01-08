@@ -10,6 +10,6 @@ Besides that, I also love playing games like [*Minecraft*](https://www.minecraft
 
 * In ***Genshin Impact***, I am *[**Furina**](https://genshin-impact.fandom.com/wiki/Furina) main*, and the couple I am shipping is [***Aether***](https://genshin-impact.fandom.com/wiki/Traveler) and ***Furina***.
 
-* No special details about ***Honkai: Star Rail*** but I am *[**Ruan Mei**](https://honkai-star-rail.fandom.com/wiki/Ruan_Mei) main*.
+* In ***Honkai: Star Rail***, I am *[**Ruan Mei**](https://honkai-star-rail.fandom.com/wiki/Ruan_Mei) main*. Such this elegant but crazy biology talent deeply touched me.
 
 If you want to contact me, send me an email is ok.😉
