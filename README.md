@@ -9,7 +9,7 @@ Besides that, I also love playing games like [*Minecraft*](https://www.minecraft
 
 * In ***Minecraft***, I am a redstone digital circuit player. I love learning and building redstone digital circuits to enhance my computer hardware knowledge.
 
-* In ***Genshin Impact***, I am *[**Furina**](https://genshin-impact.fandom.com/wiki/Furina) main*, and the couple I am shipping is [***Aether***](https://genshin-impact.fandom.com/wiki/Traveler) and ***Furina***.
+* In ***Genshin Impact***, I am *[**Furina**](https://genshin-impact.fandom.com/wiki/Furina) main*, and the couple I ship is [***Aether***](https://genshin-impact.fandom.com/wiki/Traveler) and ***Furina***.
 
 * In ***Honkai: Star Rail***, I am *[**Ruan Mei**](https://honkai-star-rail.fandom.com/wiki/Ruan_Mei) main*. Such this elegant but crazy biology talent deeply touched me.
 
