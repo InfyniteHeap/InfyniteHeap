@@ -1,4 +1,4 @@
-# Hi there 👋
+# A Brief Introduction
 
 As an undergraduate student, I am concentrating on learning computer knowledge. I prefer using Rust as my primary programming language because it is not only fast enough to be used in operating system kernel, but also safe enough to avoid leading to amount of memory safety issues and bugs.
 
@@ -13,4 +13,4 @@ Besides that, I also love playing games like [*Minecraft*](https://www.minecraft
 
 * In ***Honkai: Star Rail***, I am *[**Ruan Mei**](https://honkai-star-rail.fandom.com/wiki/Ruan_Mei) main*. Such this elegant but crazy biology talent deeply touched me.
 
-If you want to contact me, send me an email is ok.😉
+If you want to contact me, send me emails are welcome!😉
